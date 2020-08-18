@@ -1,6 +1,6 @@
 # r-passgen
 
-It's a python software you can use to generate random password
+It's a python software you can use to generate random passwords
 
 Developed in stock python 3.7.5.
 
