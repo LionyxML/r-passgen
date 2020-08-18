@@ -1,20 +1,14 @@
-# rx-plotter
+# r-passgen
 
-It's a python software you can use to plot mathematical functions into graphics. Works as a king of GUI to sympy.
+It's a python software you can use to generate random password
 
-Requires: sympy (1.4), matplotlib (3.1.2), tkinter (built-in)
+Developed in stock python 3.7.5.
 
-Developed in python 3.7.5.
-
-Tested under Windows 10 and MacOS Catalina.
+Tested under Windows 10, Linux and MacOS Catalina.
 
 ## Features
-- Up to 9 functions
-- Selectable plots 
-- Selectable color
-- Customizable Title
-- Customizable range and step
+- Selectable number of special, number, upper case and lower case chars 
 
 ## Screenshots
-![Demo](img/full.png)
-
+![Demo1](img/1.png)
+![Demo2](img/2.png)
